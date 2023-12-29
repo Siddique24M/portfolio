@@ -1,0 +1,19 @@
+.logo{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.logo h1{
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+    font-size: 50px;
+    color: rgb(221, 160, 86);
+    font-family:"Sofia", sans-serif ;
+}
+p{
+    padding: 8px;
+    border: 2px;
+    text-align: center;
+    font-size: 30px;
+}
